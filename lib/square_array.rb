@@ -7,3 +7,4 @@ while count < array.length do
 end
 new_array # your code here
 end
+square_array
