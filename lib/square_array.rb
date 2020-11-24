@@ -4,5 +4,3 @@ def square_array(numbers,new_numbers)
   c+=1
  end
 end
-
-
