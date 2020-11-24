@@ -1,6 +1,7 @@
 def square_array(numbers,new_numbers)
- while |c| < numbers.length do
-  puts  new_numbers[c]=numbers[c]**2
+  c=0
+ while c < numbers.length do
+  puts  new_numbers.push(numbers[c]*numbers[c])
   c+=1
  end
 end
