@@ -5,6 +5,6 @@ while count < array.length do
  puts new_array.push(array [count] **2)
  count += 1
 end
-new_array # your code here
+new_array 
 end
-square_array [1,2,3]
+
